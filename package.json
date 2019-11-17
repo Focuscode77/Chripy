@@ -1,0 +1,25 @@
+{
+  "name": "chripy",
+  "version": "1.0.0",
+  "description": "An App that allows you to tweet what your doing and keep up with your followers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Focuscode77/Chripy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Focuscode77/Chripy/issues"
+  },
+  "homepage": "https://github.com/Focuscode77/Chripy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.0.0",
+    "sequelize": "^5.21.2"
+  }
+}
